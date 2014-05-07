@@ -21,7 +21,7 @@ set hlsearch
 
 :nnoremap s :w<ESC>
 
-" call pathogen#infect()
+call pathogen#infect()
 
 set autoindent
 filetype plugin indent on
