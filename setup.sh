@@ -1,1 +1,1 @@
-apt-get install -y git vim-nox tree
+apt-get install -y git vim-nox tree curl
