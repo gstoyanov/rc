@@ -19,6 +19,7 @@ Videos
 .xsession-errors
 .pki
 .ssh
+.z
 
 .bash_history
 .bash_logout
