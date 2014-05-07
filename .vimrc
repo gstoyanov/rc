@@ -28,3 +28,6 @@ filetype plugin indent on
 
 " use F6 to toggle the spell checker
 noremap <F6> :setlocal spell! spelllang=en_us<CR>
+
+" ctrlp.vim
+set runtimepath^=~/.vim/bundle/ctrlp.vim
