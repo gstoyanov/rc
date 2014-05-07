@@ -18,6 +18,7 @@ Videos
 .mozilla/
 .xsession-errors
 .pki
+.ssh
 
 .bash_history
 .bash_logout
